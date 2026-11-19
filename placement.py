@@ -4,4 +4,8 @@ company = input("Enter company name: ")
 package = input("Enter package: ")
 
 print("Company Name:", company)
-print("Package:", package)
+print("\nPlacement Status")
+
+status = input("Enter placement status: ")
+
+print("Student Placement Status:", status)print("Package:", package)
